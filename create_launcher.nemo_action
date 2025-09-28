@@ -1,0 +1,8 @@
+[Nemo Action]
+Name=Create Launcher
+Comment=Create Menu and Desktop launcher for this AppImage or program
+Exec=/usr/share/nemo/actions/create_launcher.sh %F
+Icon=app-launcher.png
+Selection=any
+Extensions=any
+Quote=double
